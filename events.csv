@@ -20,3 +20,57 @@ BIOINFORMATICS-SIG-L listserv,EHR Data Access and Analysis,2018/10/25,2018/10/25
 In this 3 hour hands-on workshop, we explore the challenges of the secondary use of data in clinical information systems, learn the various  data sources and data  types stored in an EHR system. Participants will also design an observational study, extract and analyze data based on a defined use case. We will provide a de-identified EHR patients' dataset as well as access to tools for data analysis and visualization, including RStudio & trial versions of Tableau. We will contact participants directly with more details. ","EHR,clinical information systems",
 BIOINFO-GENERAL-NCI listserv,BioC 2019,2019/06/25,2019/06/26,1561420800,Rockefeller University,,Workshop,no,"Additional information coming soon. To see a list of past workshops, visit http://bioc2018.bioconductor.org.","bioconductor,genomic data",
 NIH Calendar of Events,NHLBI/NICHD Epigenetics Sequencing Symposium,2018/11/02,2018/11/02,1541116800,"NIH Main Campus, Building 35A, Room 620/630",https://www.eventbrite.com/e/nhlbinichd-genomics-symposium-epigenetics-sequencing-registration-47114582986,Symposium,no,"The DNA Sequencing and Genomics Core and the Bioinformatics and Computational Biology Core at the National Heart, Lung, and Blood Institute (NHLBI) and the Molecular Genomics Core at the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) are jointly hosting a one-day symposium focusing on applications and recent advances in the epigenetics sequencing technologies. The symposium features presentations on basic and clinical research, as well as on computational data analysis. Emerging technologies in the epigenetics sequencing area will also be covered. We hope this symposium will help to increase awareness of new epigenetics sequencing tools and promote its applications in translational and clinical research in the NIH research community.","computational data analysis,epigenetics sequencing",
+NIH Calendar of Events,Intermediate Python Programming and Best Practices,2018/11/05,2018/11/05,1541376000,"NIH Main Campus, Building 12, Room B51",https://training.cit.nih.gov/class_details.aspx?cId=NIHCIT-SS451,Seminar,yes,"Now that you know the basics of the python programming language, let's take the language to the next level. In the seminar, we will explore some advanced features of the python programming language and we will also explore some best practices to make the best use of the python programming language. Students will receive a Jupyter Notebook with all steps taught in the class for further study and practice. 
+
+This seminar will be concurrently webcast for those who cannot attend in person (Register here: http://bit.ly/nih-python-register) 
+
+Prerequisites
+- Introduction to the Command Line webinar (http://bioinformatics.niaid.nih.gov)
+- Introduction to Jupiter notebook
+- Introduction to Programming (with Python) or previous programming experience required","python,Jupyter notebook",
+NIH Calendar of Events,Bioinformatics Programming with Python,2018/11/07,2018/11/07,1541548800,"NIH Main Campus, Building 12, Room B51",https://training.cit.nih.gov/class_details.aspx?cId=NIHCIT-SS460,Seminar,yes,"In this seminar, we will explore the bioinformatics capabilities of the python programming language. We will examine some of the many capabilities of the biopython package as well as delve into the bioconda project for easy bioinformatics software installation. Students will receive a Jupyter Notebook with all steps taught in the class for further study and practice. 
+
+This seminar will be concurrently webcast for those who cannot attend in person (Register here: http://bit.ly/nih-python-register) 
+
+Prerequisites
+- Introduction to the Command Line webinar (http://bioinformatics.niaid.nih.gov)
+- Introduction to Jupiter notebook
+- Introduction to Programming (with Python) or previous programming experience required","python,Jupyter notebook",
+NIH Calendar of Events,Building Workflows with Python,2018/11/14,2018/11/14,1542153600,"NIH Main Campus, Building 12, Room B51",https://training.cit.nih.gov/class_details.aspx?cId=NIHCIT-SS470,Seminar,yes,"In this seminar, we will assemble a working pipeline based upon the steps we have learned in the previous seminars while surveying a few methods for building workflows, including the snakemake package. Students will receive a Jupyter Notebook with all steps taught in the class for further study and practice. 
+
+This seminar will be concurrently webcast for those who cannot attend in person (Register here: http://bit.ly/nih-python-register) 
+
+Prerequisites
+- Introduction to the Command Line webinar (http://bioinformatics.niaid.nih.gov)
+- Introduction to Jupiter notebook
+- Introduction to Programming (with Python) or previous programming experience required","python,Jupyter notebook",
+NIH Calendar of Events,Biomedical Data Storage and Retrieval (using SQL & NoSQL),2018/11/19,2018/11/19,1542585600,"NIH Main Campus, Building 12, Room B51",https://training.cit.nih.gov/class_details.aspx?cId=NIHCIT-SS497,Seminar,yes,"Biological data continues to grow at an incredible rate! In the seminar, we will examine data storage and retrieval strategies, use cases, and practical examples using databases (including MySQL and MongoDB) as well as programming languages to access them (SQL and NoSQL). Programming will be done using the Python programming language. Students will receive a Jupyter Notebook with all steps taught in the class for further study and practice. 
+
+This seminar will be concurrently webcast for those who cannot attend in person (Register here: http://bit.ly/nih-python-register) 
+
+Prerequisites
+- Experience with a computer and web browser
+- Familiarity with the Python programming language","data storage, MySQL,MongoDB,Jupyter notebook",
+NIH Calendar of Events,Becoming a Reproducible Scientist (Part 1),2018/11/28,2018/11/28,1543363200,"NIH Main Campus, Building 12, Room B51",https://training.cit.nih.gov/class_details.aspx?cId=NIHCIT-SS499,Seminar,yes,"We will explore reasons for reproducible science and delve into practical exercises that will allow you to enhance your data analysis with good, better, and best practices. Topics include introduction to Jupyter Notebook, basic intro to the python programming language, data and project organization, data exploration, automation, publishing, and sharing. This seminar will condense the Data Carpentry Reproducible Science Jupyter workshop held in Berkeley, CA in 2017 & 2018 (https://github.com/Reproducible-Science-Curriculum). Students will receive a Jupyter Notebook with all steps taught in the class for further study and practice. 
+
+This seminar will be concurrently webcast for those who cannot attend in person (Register here: http://bit.ly/nih-python-register)",reproducibility,
+NIH Calendar of Events,Becoming a Reproducible Scientist (Part 2),2018/12/03,2018/12/03,1543795200,"NIH Main Campus, Building 12, Room B51",https://training.cit.nih.gov/class_details.aspx?cId=NIHCIT-SS500,Seminar,yes,"We will explore reasons for reproducible science and delve into practical exercises that will allow you to enhance your data analysis with good, better, and best practices. Topics include introduction to Jupyter Notebook, basic intro to the python programming language, data and project organization, data exploration, automation, publishing, and sharing. This seminar will condense the Data Carpentry Reproducible Science Jupyter workshop held in Berkeley, CA in 2017 & 2018 (https://github.com/Reproducible-Science-Curriculum). Students will receive a Jupyter Notebook with all steps taught in the class for further study and practice. 
+
+This seminar will be concurrently webcast for those who cannot attend in person (Register here: http://bit.ly/nih-python-register) ",reproducibility,
+NIH Calendar of Events,Introduction to METAGENOTE,2018/11/07,2018/11/07,1541548800,GoToWebinar,https://register.gotowebinar.com/register/2903823797545605121,Seminar,yes,"**This event is for NIH Staff only**
+
+METAGENOTE refers to the collection of metadata from genomics studies using a web-based notebook. METAGENOTE facilitates the annotation of datasets to ensure that metadata is stored in one centralized location for each group and automates the submission of files to the SRA. This tool, developed by NIAID, is freely accessible to all NIH researchers. 
+
+The webinar will cover easy ways to annotate your samples and submit them to the NCBI Sequence Read Archive (SRA) using METAGENOTE. 
+
+By attending this webinar, you can expect to learn:
+• What is METAGENOTE and why do I want to use it? 
+• How do I import metadata from Excel files? 
+• How do I share annotated sample group tables with lab members? 
+• How do I submit my sample data to the SRA database automatically?","genomic data,SRA",
+STRUCTBIOLIG listserv,Probes of Dendritic Cell Lectins,2018/11/08,2018/11/08,1541635200,"NCI-Frederick Fort Detrick campus, Bldg. 376, Room 121",,Seminar,no,"NCI at Frederick is pleased to announce a forthcoming seminar in the ""Molecular Discovery Seminar Series (MDSS).""  The presenter will be Prof. Laura L. Kiessling*, Massachusetts Institute of Technology (MIT), Dept. of Chemistry, Cambridge, MA.
+
+Prof. Kiessling's talk is entitled ""Probes of Dendritic Cell Lectins"".
+The seminar will begin at 10:00 a.m. on Thursday, November 8, 2018, at NCI-Frederick in Bldg. 376, Room 121 on the Fort Detrick campus, Frederick, MD.   It will also be video-conferenced 'live' to Building 3, Room 2E04 on the Bethesda campus and Room E-1201 at the Advanced Technology Research Facility (ATRF).
+
+You will find Prof. Kiessling's bibliography at: https://ncifrederick.cancer.gov/ScientificLibrary/Bibliography/Default.aspx",molecular discovery,
