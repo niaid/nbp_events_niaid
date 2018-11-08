@@ -2,14 +2,6 @@
 BIOINFORMATICS-SIG-L listserv,Systems Immunology,2019/03/13,2019/03/16,1552435200,"Cold Spring Harbor, NY",https://meetings.cshl.edu/meetings.aspx?meet=SYSIMM&year=19,Conference,no,"The meeting is intended to promote cross-disciplinary exchange between experimental, computational and mathematical biologists studying the organization, functions and regulation of the immune system at various scales. Our goal is to establish a recurrent forum that brings together immunologists and systems biologists in this nascent field.",immunology,
 BIOINFO-GENERAL-NCI listserv,Connectivity Map Workshop,2018/12/04,2018/12/06,1543881600,"Broad Institute, 415 Main St., Cambridge, MA 02142",https://clue.io/workshop2018,Workshop,no,A suite of training modules aimed at users of L1000 and LINCS data will be offered. Content will be geared toward people familiar with Connectivity Map or gene expression analysis.,"connectivitymap, gene expression",
 BIOINFO-GENERAL-NCI listserv,BioC 2019,2019/06/25,2019/06/26,1561420800,Rockefeller University,,Workshop,no,"Additional information coming soon. To see a list of past workshops, visit http://bioc2018.bioconductor.org.","bioconductor,genomic data",
-NIH Calendar of Events,Bioinformatics Programming with Python,2018/11/07,2018/11/07,1541548800,"NIH Main Campus, Building 12, Room B51",https://training.cit.nih.gov/class_details.aspx?cId=NIHCIT-SS460,Seminar,yes,"In this seminar, we will explore the bioinformatics capabilities of the python programming language. We will examine some of the many capabilities of the biopython package as well as delve into the bioconda project for easy bioinformatics software installation. Students will receive a Jupyter Notebook with all steps taught in the class for further study and practice. 
-
-This seminar will be concurrently webcast for those who cannot attend in person (Register here: http://bit.ly/nih-python-register) 
-
-Prerequisites
-- Introduction to the Command Line webinar (http://bioinformatics.niaid.nih.gov)
-- Introduction to Jupiter notebook
-- Introduction to Programming (with Python) or previous programming experience required","python,Jupyter notebook",
 NIH Calendar of Events,Building Workflows with Python,2018/11/14,2018/11/14,1542153600,"NIH Main Campus, Building 12, Room B51",https://training.cit.nih.gov/class_details.aspx?cId=NIHCIT-SS470,Seminar,yes,"In this seminar, we will assemble a working pipeline based upon the steps we have learned in the previous seminars while surveying a few methods for building workflows, including the snakemake package. Students will receive a Jupyter Notebook with all steps taught in the class for further study and practice. 
 
 This seminar will be concurrently webcast for those who cannot attend in person (Register here: http://bit.ly/nih-python-register) 
@@ -31,17 +23,6 @@ This seminar will be concurrently webcast for those who cannot attend in person 
 NIH Calendar of Events,Becoming a Reproducible Scientist (Part 2),2018/12/03,2018/12/03,1543795200,"NIH Main Campus, Building 12, Room B51",https://training.cit.nih.gov/class_details.aspx?cId=NIHCIT-SS500,Seminar,yes,"We will explore reasons for reproducible science and delve into practical exercises that will allow you to enhance your data analysis with good, better, and best practices. Topics include introduction to Jupyter Notebook, basic intro to the python programming language, data and project organization, data exploration, automation, publishing, and sharing. This seminar will condense the Data Carpentry Reproducible Science Jupyter workshop held in Berkeley, CA in 2017 & 2018 (https://github.com/Reproducible-Science-Curriculum). Students will receive a Jupyter Notebook with all steps taught in the class for further study and practice. 
 
 This seminar will be concurrently webcast for those who cannot attend in person (Register here: http://bit.ly/nih-python-register) ",reproducibility,
-NIH Calendar of Events,Introduction to METAGENOTE,2018/11/07,2018/11/07,1541548800,GoToWebinar,https://register.gotowebinar.com/register/2903823797545605121,Seminar,yes,"**This event is for NIH Staff only**
-
-METAGENOTE refers to the collection of metadata from genomics studies using a web-based notebook. METAGENOTE facilitates the annotation of datasets to ensure that metadata is stored in one centralized location for each group and automates the submission of files to the SRA. This tool, developed by NIAID, is freely accessible to all NIH researchers. 
-
-The webinar will cover easy ways to annotate your samples and submit them to the NCBI Sequence Read Archive (SRA) using METAGENOTE. 
-
-By attending this webinar, you can expect to learn:
-• What is METAGENOTE and why do I want to use it? 
-• How do I import metadata from Excel files? 
-• How do I share annotated sample group tables with lab members? 
-• How do I submit my sample data to the SRA database automatically?","genomic data,SRA",
 STRUCTBIOLIG listserv,Probes of Dendritic Cell Lectins,2018/11/08,2018/11/08,1541635200,"NCI-Frederick Fort Detrick campus, Bldg. 376, Room 121",,Seminar,no,"NCI at Frederick is pleased to announce a forthcoming seminar in the ""Molecular Discovery Seminar Series (MDSS).""  The presenter will be Prof. Laura L. Kiessling*, Massachusetts Institute of Technology (MIT), Dept. of Chemistry, Cambridge, MA.
 
 Prof. Kiessling's talk is entitled ""Probes of Dendritic Cell Lectins"".
@@ -54,3 +35,8 @@ By attending this webinar, you will learn about the new Nephele pipelines and wi
 • How do I check my data’s quality?
 • How do I explore my output files and troubleshoot problems?
 • How do I visualize my output further?",microbiome,
+BIOINFORMATICS-SIG-L listserv,Walk-In Consult with HPC staff,2018/11/14,2018/11/14,1542153600,Bldg 50 coffee shop area,,Consult,no,"All Helix or Biowulf users, and all those interested in using the systems, are invited to stop by and discuss problems and concerns, from scripting problems to node allocation, to strategies for a particular project, to anything that is affecting your use of Helix or Biowulf. We'll try to address simpler issues on the spot and follow up on more complex questions after the Walk-In.
+
+No appointments are necessary, and all problems are welcome.
+
+Look for the signs saying 'NIH HPC Walk-In Consults' on the tables to find us!",HPC,
