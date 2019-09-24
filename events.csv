@@ -1,12 +1,4 @@
 ﻿type,title,startDate,endDate,timestamp,location,url,eventType,videocast,description,keywords,Notes
-BIOINFO-GENERAL-NCI listserv,2019 MidAtlantic Bioinformatics Conference,2019/10/11,2019/10/11,1570752000,"Convene Cira Conference Centre 2929 Arch St #200, Philadelphia, PA 19104
+BIOINFO-GENERAL-NCI listserv,2019 MidAtlantic Bioinformatics Conference,10/11/19,10/11/19,1570752000,"Convene Cira Conference Centre 2929 Arch St #200, Philadelphia, PA 19104
 Philadelphia, PA 19104",https://www.mabc2019.org,Conference,no,"Multiomic Data Integration for Biomedical Discovery: 
 Statistical and Machine Learning Approaches to Big Data","biological data,genomic data,machine learning,variants,visualization,sequence analysis",
-NIAID-BIOIT,Introduction to SimpleITK,2019/9/10,2019/9/10,1568073600,"NIH Main Campus, Building 12, Room B51",https://training.cit.nih.gov/class_details.aspx?cId=NIHCIT-SS610,Class,no,"The session will introduce participants to SimpleITK, a simplified programming interface to the algorithms and data structures of the Insight Segmentation and Registration Toolkit (ITK). This hands-on session will utilize Python based SimpleITK Jupyter notebooks to explore and experiment with various toolkit features. Participants will follow along using their personal laptops, enabling them to explore the effects of changes and settings not covered by the instructor.","machine learning,python",
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
