@@ -1,4 +1,27 @@
 ﻿type,title,startDate,endDate,timestamp,location,url,eventType,videocast,description,keywords,Notes
-BIOINFO-GENERAL-NCI listserv,2019 MidAtlantic Bioinformatics Conference,10/11/19,10/11/19,1570752000,"Convene Cira Conference Centre 2929 Arch St #200, Philadelphia, PA 19104
+BIOINFO-GENERAL-NCI listserv,2019 MidAtlantic Bioinformatics Conference,2019/10/11,2019/10/11,1570752000,"Convene Cira Conference Centre 2929 Arch St #200, Philadelphia, PA 19104
 Philadelphia, PA 19104",https://www.mabc2019.org,Conference,no,"Multiomic Data Integration for Biomedical Discovery: 
 Statistical and Machine Learning Approaches to Big Data","biological data,genomic data,machine learning,variants,visualization,sequence analysis",
+NIH-DATASCIENCE listserv,"Virus hunting in the cloud codeathon, v2",2019/11/04,2019/11/06,,University of Maryland in College Park,https://ncbiinsights.ncbi.nlm.nih.gov/2019/09/26/virus-hunting-in-the-cloud-codeathon-v2/,Hackathon,no,"We are pleased to announce the second installment of the Virus Hunting Codeathon. 
+TOPICS
+
+Fast, federated indexing
+Big Query
+Metadata features
+Genome graphs for viruses
+Approximate taxonomic analysis
+Domain/HMM Boundary and Taxonomic Refinement
+Bringing together approximate taxonomy and domain models
+Sequence data quality metrics
+Phage-host interactions","hackathon
+NCBI
+virology
+informatics
+cloud computing
+metadata",
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
