@@ -16,3 +16,4 @@ Welcome to the Events repo. Information from the included spreadsheet is added t
  3. Save the file as a .xslx AND a .csv. (It is the .csv file that is read by the update script. The .xslx file is for user-readability).
  4. Commit them both back to the repo.
  5. Notify Yamil that a commit has been made:  yamil.booirizarry @ nih .gov
+ 6. Done!
